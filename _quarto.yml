@@ -6,7 +6,7 @@ book:
   title: "Portofolio M. Abizzar G."
   subtitle: "Seorang mahasiswa naif yang berusaha menjadi yang terbaik"
   author: "13523155 - M. Abizzar Gamadrian"
-  date: "10/21/2025""
+  date: "10/21/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd

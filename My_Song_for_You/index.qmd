@@ -4,7 +4,7 @@ Pesan ini saya tujukan kepada orang-orang terdekat sayaâ€”keluarga dan sahabatâ€
 
 Saya memilih lagu "If We Have Each Other" dari Alec Benjamin.
 
-{{< youtube tscMSXk_jaQ >}}
+<iframe src="https://www.youtube.com/embed/tscMSXk_jaQ" title="If We Have Each Other - Alec Benjamin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Kenapa Lagu Ini?
 

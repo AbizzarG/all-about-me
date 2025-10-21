@@ -1,22 +1,29 @@
-# Selamat Berjumpa {.unnumbered}
+# Selamat Datang di Dunia Saya {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+![Foto M. Abizzar Gamadrian](images/profile.jpg){width=950%}
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Selamat datang di portofolio saya. Saya **M. Abizzar Gamadrian (13523155)**, dan ini adalah tagline saya: "seorang mahasiswa naif yang berusaha menjadi yang terbaik."
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Sesuai tagline itu, halaman ini adalah kumpulan cerita jujur tentang proses saya—tentang jatuh, bangkit, dan hal-hal aneh di antaranya.
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+---
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
+### Cerita di Balik Sampul (UTS-1: All About Me)
 
+Untuk mengenal saya, ada beberapa fakta yang perlu Anda tahu:
 
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
+1.  **Saya buta warna parsial.** Ini bukan halangan, tapi ini membuat saya melihat dunia sedikit berbeda (secara harfiah).
+2.  **Saya punya hobi aneh.** Jika saya bingung menentukan pilihan (mau makan apa, nonton apa), saya akan memutar *spin-wheel* di internet dan membiarkan takdir memutuskan.
+3.  **Saya pernah hampir tenggelam.** Waktu kecil, saya nekat mencoba menyeberangi kolam yang dalam. Untungnya, sepupu saya melihat dan menyelamatkan saya. Mungkin dari situlah saya belajar untuk tidak nekat, *atau* setidaknya pastikan ada yang mengawasi.
 
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
+(Konten UTS-1 selengkapnya ada di chapter [All About Me](./All_About_me/index.qmd))
 
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
+### Prinsip Saya: Jatuh Itu Wajar
 
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
+Jika ada satu hal yang saya pegang, itu adalah kutipan dari Mary Pickford:
 
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+> "This thing that we call failure is not the falling down, but the staying down."
+
+Bagi saya, ini bukan sekadar kata-kata. Ini adalah pengingat bahwa gagal itu tidak apa-apa. Lelah itu wajar. Tapi menyerah? Itu pilihan yang berbeda. Selama saya tidak memilih untuk "tetap di bawah", saya belum benar-benar gagal.
+
+Prinsip inilah yang membawa saya melewati salah satu kegagalan terbesar saya, yang bisa Anda baca di [My Stories for You](./My_Stories_for_You/index.qmd).

@@ -1,6 +1,6 @@
 # UTS-3: Kisah Jatuh di Garis Start (dan Menolak untuk Tetap di Bawah)
 
-Di halaman utama [portofolio ini](./index.qmd), saya membagikan kutipan favorit saya dari Mary Pickford:
+Di halaman utama [portofolio ini](../index.qmd), saya membagikan kutipan favorit saya dari Mary Pickford:
 
 > "This thing that we call failure is not the falling down, but the staying down."
 

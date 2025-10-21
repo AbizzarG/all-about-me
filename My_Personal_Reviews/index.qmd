@@ -6,7 +6,7 @@ Bagian ini berisi evaluasi terhadap portofolio UTS (UTS-1 s/d UTS-4) berdasarkan
 
 Rekapitulasi skor kuantitatif dari *Self-Assessment* dan *Peer-Assessment* tersedia dalam format CSV di bawah ini, mengikuti template `Lembar Skor`.
 
-* **[Unduh Lembar Skor Lengkap (Self + Peer)](../Self-Assessment_UTS-1_s_d__UTS-5__dibuat_otomatis_.csv)**
+* **[Unduh Lembar Skor Lengkap (Self + Peer)](./Self-Assessment_UTS-1_s_d__UTS-5__dibuat_otomatis_.csv)**
 
 ---
 

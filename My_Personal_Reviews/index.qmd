@@ -6,21 +6,21 @@ Berikut adalah hasil self-assessment portofolio saya. Metode ini mengikuti pandu
 
 ## Identifikasi
 
-* **Nama & NIM penulis:** M. Abizzar Gamadrian - 13523155 (tertera di halaman depan portofolio).
+* **Nama & NIM penulis:** M. Abizzar Gamadrian – 13523155 (tertera di halaman depan portofolio).
 * **Penilai:** Self-assessment (M. Abizzar Gamadrian)
 * **Catatan cakupan:** Halaman beranda (`index.qmd`) memuat rangkuman "About Me" (UTS-1) dan "Prinsip Saya" (terhubung ke UTS-3). Navigasi di *sidebar* lengkap ke semua chapter (UTS-1 s/d UTS-5).
 
 ## Tinjauan Umum
 
 * **UTS-1 (All About Me)** hadir di chapter `All_About_me/index.qmd` dan `index.qmd`. Konten sangat personal, memperkenalkan fakta unik (buta warna, spin-wheel), hobi (AoT, calisthenics), dan prinsip hidup ("staying down").
-* **UTS-2 (My Songs for You)** memuat dedikasi yang jelas, video YouTube yang di-embed, dan narasi personal di balik pemilihan lagu.
+* **UTS-2 (My Songs for You)** memuat dedikasi yang jelas, video YouTube yang di-embed, narasi personal di balik pemilihan lagu, serta lirik lengkap. Konten sudah 100% lengkap.
 * **UTS-3 (My Stories for You)** berisi satu narasi kuat tentang pengalaman kegagalan UTBK, dengan struktur cerita (konflik, resolusi) yang jelas.
 * **UTS-4 (My SHAPE)** berisi analisis komprehensif (S-H-A-P-E), menghubungkan data tes (VIA, ENFP, Values) dengan refleksi otentik (paradoks ENFP vs Certainty) dan ditutup Piagam Diri.
 * **UTS-5 (My Personal Reviews)** (halaman ini) berisi *self-assessment* sesuai format. Bagian *Peer-Assessment* akan ditambahkan kemudian.
 
 ---
 
-## Tinjauan Spesifik + Skor (1-5)
+## Tinjauan Spesifik + Skor (1–5)
 
 ### UTS-1 — All About Me
 
@@ -31,8 +31,8 @@ Berikut adalah hasil self-assessment portofolio saya. Metode ini mengikuti pandu
 ### UTS-2 — My Songs for You
 
 **Skor per kriteria:** Orisinalitas **4**, Keterlibatan **5**, Humor **1**, Inspirasi **5** → **Total 15/20 (75%)**.
-**Alasan singkat:** "Keterlibatan" dan "Inspirasi" sangat tinggi karena adanya narasi personal "kenapa lagu ini". Penggunaan *embed* video lebih baik daripada link mati. Skor "Orisinalitas" 4 (bukan 5) karena menggunakan karya orang lain (bukan ciptaan sendiri). Skor "Humor" 1 karena pesan lagu ini memang tidak ditujukan untuk lucu.
-**Saran perbaikan:** Tambahkan 1-2 paragraf yang berisi *transkrip lirik* dari bagian kunci lagu ("You should know I'll be there for you"), agar pesan utama tetap tersampaikan jika video gagal dimuat.
+**Alasan singkat:** "Keterlibatan" dan "Inspirasi" sangat tinggi karena adanya narasi personal "kenapa lagu ini". Penggunaan *embed* video lebih baik daripada link mati. Skor "Orisinalitas" 4 (bukan 5) karena menggunakan karya orang lain (bukan ciptaan sendiri). Skor "Humor" 1 karena pesan lagu ini memang tidak ditujukan untuk lucu. Konten sekarang sudah lengkap dengan transkrip lirik, membuat pesan tersampaikan dengan utuh.
+**Saran perbaikan:** Tidak ada. Konten sudah lengkap.
 
 ### UTS-3 — My Stories for You
 
@@ -69,5 +69,4 @@ Berikut adalah hasil self-assessment portofolio saya. Metode ini mengikuti pandu
 ## Langkah Perbaikan Cepat (Prioritas)
 
 1.  **Lengkapi UTS-5:** Ini prioritas utama. Lakukan *Peer-Assessment* dan upload `Lembar Skor.xlsx`.
-2.  **Perbaiki UTS-2:** Tambahkan transkrip lirik kunci lagu.
-3.  **Perbaiki UTS-1:** Satukan konten perkenalan diri ke dalam satu chapter `All_About_me/index.qmd`.
+2.  **Perbaiki UTS-1:** Satukan konten perkenalan diri ke dalam satu chapter `All_About_me/index.qmd`.

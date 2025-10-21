@@ -1,29 +1,20 @@
-# Selamat Datang di Dunia Saya {.unnumbered}
+# Selamat Datang {.unnumbered}
 
 ![Foto M. Abizzar Gamadrian](images/profile.jpg){width=950%}
 
-Selamat datang di portofolio saya. Saya **M. Abizzar Gamadrian (13523155)**, dan ini adalah tagline saya: "seorang mahasiswa naif yang berusaha menjadi yang terbaik."
+Selamat datang di portofolio digital saya.
 
-Sesuai tagline itu, halaman ini adalah kumpulan cerita jujur tentang proses saya—tentang jatuh, bangkit, dan hal-hal aneh di antaranya.
+Saya **M. Abizzar Gamadrian (13523155)**, dan ini adalah tagline saya: "seorang mahasiswa naif yang berusaha menjadi yang terbaik."
 
----
+Website ini adalah kumpulan cerita, refleksi, dan analisis diri saya untuk memenuhi tugas mata kuliah II2100 Komunikasi Interpersonal dan Publik.
 
-### Cerita di Balik Sampul (UTS-1: All About Me)
+### Mulai dari Mana?
 
-Untuk mengenal saya, ada beberapa fakta yang perlu Anda tahu:
+* Untuk perkenalan lengkap tentang siapa saya, silakan kunjungi:
+    * **[UTS-1: All About Me](./All_About_me/index.qmd)**
+* Untuk cerita paling transformatif dalam hidup saya:
+    * **[UTS-3: My Stories for You](./My_Stories_for_You/index.qmd)**
+* Untuk analisis mendalam tentang kepribadian (ENFP) dan kekuatan saya:
+    * **[UTS-4: My SHAPE](./My_Shapes/index.qmd)**
 
-1.  **Saya buta warna parsial.** Ini bukan halangan, tapi ini membuat saya melihat dunia sedikit berbeda (secara harfiah).
-2.  **Saya punya hobi aneh.** Jika saya bingung menentukan pilihan (mau makan apa, nonton apa), saya akan memutar *spin-wheel* di internet dan membiarkan takdir memutuskan.
-3.  **Saya pernah hampir tenggelam.** Waktu kecil, saya nekat mencoba menyeberangi kolam yang dalam. Untungnya, sepupu saya melihat dan menyelamatkan saya. Mungkin dari situlah saya belajar untuk tidak nekat, *atau* setidaknya pastikan ada yang mengawasi.
-
-(Konten UTS-1 selengkapnya ada di chapter [All About Me](./All_About_me/index.qmd))
-
-### Prinsip Saya: Jatuh Itu Wajar
-
-Jika ada satu hal yang saya pegang, itu adalah kutipan dari Mary Pickford:
-
-> "This thing that we call failure is not the falling down, but the staying down."
-
-Bagi saya, ini bukan sekadar kata-kata. Ini adalah pengingat bahwa gagal itu tidak apa-apa. Lelah itu wajar. Tapi menyerah? Itu pilihan yang berbeda. Selama saya tidak memilih untuk "tetap di bawah", saya belum benar-benar gagal.
-
-Prinsip inilah yang membawa saya melewati salah satu kegagalan terbesar saya, yang bisa Anda baca di [My Stories for You](./My_Stories_for_You/index.qmd).
+Anda juga dapat menggunakan menu navigasi di samping untuk menjelajahi bagian lainnya. Terima kasih telah berkunjung.

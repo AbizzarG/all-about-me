@@ -7,11 +7,11 @@ Di bagian ini, saya melakukan refleksi diri berdasarkan kerangka kerja SHAPE (St
 Saya mengambil asesmen VIA Character Strengths. Hasilnya sangat selaras dengan apa yang saya rasakan.
 
 **5 Kekuatan Teratas Saya:**
-1.  **Cinta (Love):** Menghargai hubungan dekat dengan orang lain.
-2.  **Perspektif (Perspective):** Mampu memberikan nasihat bijak.
-3.  **Penilaian (Judgment):** Berpikir kritis dan menimbang dari semua sisi.
-4.  **Kejujuran (Honesty):** Bertindak tulus dan apa adanya.
-5.  **Kebaikan (Kindness):** Senang membantu dan berbuat baik.
+| 1.  **Cinta (Love):** Menghargai hubungan dekat dengan orang lain.
+| 2.  **Perspektif (Perspective):** Mampu memberikan nasihat bijak.
+| 3.  **Penilaian (Judgment):** Berpikir kritis dan menimbang dari semua sisi.
+| 4.  **Kejujuran (Honesty):** Bertindak tulus dan apa adanya.
+| 5.  **Kebaikan (Kindness):** Senang membantu dan berbuat baik.
 
 **Refleksi "Keautentikan":**
 Saya sangat setuju dengan 5 kekuatan teratas ini. Kekuatan **Cinta (Love)**, **Kebaikan (Kindness)**, dan **Kejujuran (Honesty)** adalah fondasi saya. Saya selalu berusaha jujur, yang terbukti sejak dulu saat saya memilih untuk juara kelas 100% tanpa mencontek. Mencapai sesuatu dengan jujur terasa jauh lebih memuaskan.
@@ -21,11 +21,11 @@ Kekuatan **Perspektif** dan **Penilaian** juga sangat "saya banget". Ini terhubu
 ### H - Heart (Hati: Nilai & Gairah)
 
 Hasil tes Personal Values saya menunjukkan 5 nilai teratas yang memandu hidup saya:
-1.  **Certainty (Kepastian):** Saya menyukai stabilitas, keteraturan, dan prediktabilitas. Saya merasa nyaman dan aman ketika segala sesuatunya jelas.
-2.  **Financial Stability (Stabilitas Finansial):** Bagi saya, uang adalah instrumen untuk memenuhi kebutuhan dan mimpi. Saya sangat rapi dalam mengelola keuangan bulanan untuk mencapai ini.
-3.  **Success (Sukses):** Mencapai hasil yang diinginkan adalah konfirmasi bahwa keputusan saya benar, yang membangun kepuasan dan harga diri.
-4.  **Family (Keluarga):** Tempat saya menemukan cinta, keamanan, dan motivasi.
-5.  **Friendship (Persahabatan):** Saya menghargai ikatan yang kuat, rasa saling percaya, dan kebersamaan dengan orang-orang baik.
+| 1.  **Certainty (Kepastian):** Saya menyukai stabilitas, keteraturan, dan prediktabilitas. Saya merasa nyaman dan aman ketika segala sesuatunya jelas.
+| 2.  **Financial Stability (Stabilitas Finansial):** Bagi saya, uang adalah instrumen untuk memenuhi kebutuhan dan mimpi. Saya sangat rapi dalam mengelola keuangan bulanan untuk mencapai ini.
+| 3.  **Success (Sukses):** Mencapai hasil yang diinginkan adalah konfirmasi bahwa keputusan saya benar, yang membangun kepuasan dan harga diri.
+| 4.  **Family (Keluarga):** Tempat saya menemukan cinta, keamanan, dan motivasi.
+| 5.  **Friendship (Persahabatan):** Saya menghargai ikatan yang kuat, rasa saling percaya, dan kebersamaan dengan orang-orang baik.
 
 Nilai **Family** dan **Friendship** adalah manifestasi nyata dari kekuatan VIA #1 saya, yaitu **Cinta (Love)**.
 
@@ -34,17 +34,17 @@ Nilai **Family** dan **Friendship** adalah manifestasi nyata dari kekuatan VIA #
 Ini adalah hal-hal yang saya kuasai, baik secara teknis maupun interpersonal:
 
 **Keterampilan Teknis & Analitis:**
-* Bisa coding
-* Bisa mengedit video (jika ada bahan dan ide)
-* Pandai mengelola keuangan pribadi/bulanan dengan rapi
-* Jago mengingat rute jalan dan arah (tidak mudah tersesat)
+| * Bisa coding
+| * Bisa mengedit video (jika ada bahan dan ide)
+| * Pandai mengelola keuangan pribadi/bulanan dengan rapi
+| * Jago mengingat rute jalan dan arah (tidak mudah tersesat)
 
 **Keterampilan Interpersonal (ENFP-style):**
-* Mudah mengobrol 1-on-1 dengan orang baru
-* Pandai mendengarkan curhat orang lain (pendengar yang baik)
-* Bisa memberikan perspektif baru saat orang lain bercerita
-* Jago main game (seringkali membutuhkan strategi dan kerja sama tim)
-* Bisa Calisthenics dasar
+| * Mudah mengobrol 1-on-1 dengan orang baru
+| * Pandai mendengarkan curhat orang lain (pendengar yang baik)
+| * Bisa memberikan perspektif baru saat orang lain bercerita
+| * Jago main game (seringkali membutuhkan strategi dan kerja sama tim)
+| * Bisa Calisthenics dasar
 
 ### P - Personality (Kepribadian)
 
@@ -64,8 +64,8 @@ Saya tidak suka rencana yang kaku, tapi saya *butuh* tujuan yang pasti. Saya mun
 ### E - Experiences (Pengalaman)
 
 Dua pengalaman hidup ini sangat membentuk saya:
-1.  **Juara Kelas dengan Kejujuran:** Saat sekolah, saya pernah juara kelas 100% jujur tanpa mencontek. Pengalaman itu menanamkan nilai bahwa **Kejujuran** (kekuatan VIA saya) jauh lebih memuaskan daripada pencapaian instan lewat kebohongan.
-2.  **Orang Datang dan Pergi:** Saya dulu sering punya teman yang sangat dekat, namun seiring berjalannya waktu, hubungan itu memudar bukan karena konflik, tapi karena keadaan dan kesibukan. Ini mengajarkan saya pelajaran berharga: *"It's okay that people come and go."* Ini membuat saya semakin menghargai **Keluarga** dan **Persahabatan** (nilai saya) yang bertahan *saat ini*.
+| 1.  **Juara Kelas dengan Kejujuran:** Saat sekolah, saya pernah juara kelas 100% jujur tanpa mencontek. Pengalaman itu menanamkan nilai bahwa **Kejujuran** (kekuatan VIA saya) jauh lebih memuaskan daripada pencapaian instan lewat kebohongan.
+| 2.  **Orang Datang dan Pergi:** Saya dulu sering punya teman yang sangat dekat, namun seiring berjalannya waktu, hubungan itu memudar bukan karena konflik, tapi karena keadaan dan kesibukan. Ini mengajarkan saya pelajaran berharga: *"It's okay that people come and go."* Ini membuat saya semakin menghargai **Keluarga** dan **Persahabatan** (nilai saya) yang bertahan *saat ini*.
 
 ---
 

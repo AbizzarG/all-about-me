@@ -1,16 +1,33 @@
 # UTS-1: All About Me
 
-Halaman ini adalah perpanjangan dari halaman utama. Di luar fakta-fakta unik dan prinsip hidup, inilah saya di waktu luang.
+Selamat datang di perkenalan resmi saya. Untuk benar-benar mengenal saya di luar nama dan NIM, ada beberapa hal yang perlu Anda ketahui.
 
-### Dunia Saya: Epik dan Realistis
+### Fakta Unik: Tiga Keanehan Saya
 
-Saat saya tidak sedang pusing dengan kuliah, saya melarikan diri ke dua dunia:
+Mari kita mulai dengan hal-hal yang tidak biasa—bagian yang menargetkan rubrik "Humor" dan "Orisinalitas".
 
-* **Dunia Epik:** Saya fans berat *Attack on Titan*. Bagi saya, itu bukan sekadar anime, tapi sebuah mahakarya epik yang akan saya rekomendasikan ke semua orang.
-* **Dunia Realistis:** Saya juga sangat menikmati *Better Call Saul*.
+1.  **Saya Buta Warna Parsial:** Ini bukan halangan, tapi ini membuat saya melihat dunia sedikit berbeda (secara harfiah). Ini juga menjelaskan mengapa saya mungkin tidak akan pernah berdebat dengan Anda tentang warna *teal* vs *turquoise*.
+2.  **Saya Menggunakan Takdir untuk Keputusan Kecil:** Saya benci terjebak dalam pilihan sepele (mau makan apa, nonton apa). Jika saya benar-benar bingung, saya akan membuka *spin-wheel* di internet, memasukkan pilihannya, dan membiarkan roda digital itu memutuskan takdir saya.
+3.  **Saya Pernah Hampir Tenggelam:** Waktu kecil, saya dengan percaya diri mencoba menyeberangi kolam yang dalam. Tentu saja, saya gagal. Untungnya, sepupu saya melihat dan menyelamatkan saya. Ini adalah pelajaran hidup yang brutal namun efektif tentang realitas.
 
-### Keseimbangan Tubuh dan Pikiran
+### Keseimbangan ENFP: Dunia di Waktu Luang
 
-Saya bukan tipe orang yang suka lari maraton (aerobik). Saya lebih suka olahraga anaerobik, secara spesifik **Calisthenics**. Ada kepuasan tersendiri dalam melatih kekuatan tubuh.
+Fakta-fakta acak di atas sebenarnya sangat mencerminkan kepribadian saya sebagai seorang **ENFP-A (Juru Kampanye)**. Sebagai seorang ENFP, saya adalah seorang ekstrovert yang berkembang melalui hubungan (kekuatan VIA #1 saya adalah **Cinta (Love)**), tetapi saya juga seorang intuitif (N) yang mendambakan kedalaman makna.
 
-Dan ya, jika saya sedang penat atau stres karena kuliah, saya suka bernyanyi-nyanyi. Mungkin tidak merdu, tapi efektif untuk meredakan stres.
+Di waktu luang, dunia saya terbagi dua:
+
+1.  **Dunia Epik (Pelarian Intuitif):**
+    Saya sangat menikmati narasi yang kompleks dan epik. Saya adalah fans berat *Attack on Titan*—bagi saya, itu bukan sekadar anime, tapi sebuah mahakarya tentang filosofi dan kondisi manusia. Saya juga sangat menyukai penulisan karakter yang brilian di *Better Call Saul*.
+
+2.  **Dunia Fisik (Keseimbangan Energi):**
+    Saya bukan tipe orang yang suka lari maraton (aerobik). Saya lebih suka olahraga anaerobik, secara spesifik **Calisthenics**. Ada kepuasan tersendiri dalam melatih kekuatan tubuh secara terkontrol. Dan ya, jika saya sedang penat atau stres karena kuliah, saya suka bernyanyi-nyanyi. Mungkin tidak merdu, tapi efektif untuk meredakan stres.
+
+### Wawasan Saya: Prinsip Anti-Tenggelam
+
+Jika ada satu benang merah yang mengikat semua ini, itu adalah kutipan dari Mary Pickford yang saya pegang teguh:
+
+> "This thing that we call failure is not the falling down, but the staying down."
+
+Bagi saya, ini bukan sekadar kata-kata. Ini adalah prinsip hidup. Ini adalah pengingat bahwa gagal itu tidak apa-apa. Lelah itu wajar. Hampir tenggelam di kolam renang itu memalukan, tapi itu bagian dari proses.
+
+Selama saya tidak memilih untuk "tetap di bawah"—baik itu di kolam renang atau saat menghadapi kegagalan UTBK (yang bisa Anda baca di [My Stories for You](../My_Stories_for_You/index.qmd))—maka saya belum benar-benar gagal.

@@ -1,31 +1,57 @@
-# UTS-3: Kisah Gagal di Garis Start
+# UTS-3: Kisah Jatuh di Garis Start (dan Menolak untuk Tetap di Bawah)
 
-Kutipan favorit saya tentang kegagalan [di halaman utama](./index.qmd) bukan sekadar teori. Saya mengalaminya.
-
-### Titik Terendah
-
-Momen kegagalan terbesar saya adalah saat pengumuman UTBK. Saya tidak lulus. Pilihan satu dan pilihan dua, keduanya menolak saya.
-
-Rasanya hancur. Orang tua saya sudah berkorban banyak—menyekolahkan saya jauh-jauh ke Palembang, ke salah satu SMA terbaik di provinsi, membiayai kursus tambahan, dan mendukung saya penuh. Tapi saya gagal memberikan hasil yang membanggakan.
-
-Saya sangat malu. Saya bahkan tidak berani mengabari mereka saat itu.
-
-### Bukan "Tetap di Bawah"
-
-Tapi, saya ingat prinsip saya. Saya tidak boleh "tetap di bawah".
-
-Orang tua saya, dengan luar biasa, sangat suportif. Mereka tidak marah, mereka justru mendorong saya untuk mencari jalan lain. Akhirnya, saya mendaftar dan mengikuti 6 ujian mandiri di berbagai kampus.
-
-Saya tidak membiarkan kesedihan berlarut-larut. Saya tahu saya harus berjuang lebih keras. Saya percaya Tuhan memberi saya jalan yang menantang ini karena saya bisa melewatinya. Saya kembali belajar dengan giat.
-
-### Hasil
-
-Pada akhirnya, saya lulus di 5 dari 6 kampus yang saya daftarkan.
-
-Termasuk di kampus yang awalnya menolak saya di UTBK. Saya mendapatkannya melalui jalur ujian mandiri, karena saya tidak menyerah untuk mencoba kembali.
-
-Pelajaran terbesar yang saya dapat adalah validasi dari kutipan itu:
+Di halaman utama [portofolio ini](./index.qmd), saya membagikan kutipan favorit saya dari Mary Pickford:
 
 > "This thing that we call failure is not the falling down, but the staying down."
 
-Jatuh dan tersandung itu hanyalah bagian dari proses yang lebih besar menuju keberhasilan.
+Kutipan itu bukan sekadar teori atau kata-kata indah yang saya temukan di internet. Bagi saya, itu adalah pengalaman pribadi. Ini adalah cerita tentang kegagalan terbesar saya.
+
+### Bagian 1: Harapan dan Beban
+
+Saya ingat dengan jelas perasaan saya menjelang Ujian Tulis Berbasis Komputer (UTBK). Ini bukan sekadar ujian masuk universitas biasa. Bagi saya, ini adalah momen pembuktian.
+
+Orang tua saya telah berkorban begitu besar. Mereka menyekolahkan saya jauh-jauh ke Palembang, ke salah satu SMA terbaik di provinsi Sumatera Selatan. Mereka membiayai kursus tambahan, memberikan semua yang saya butuhkan, dan mendukung penuh pembelajaran saya. Saya membawa harapan dan investasi mereka di pundak saya. Lulus UTBK di pilihan pertama atau kedua adalah satu-satunya skenario yang ada di kepala saya.
+
+### Bagian 2: Layar Merah Kegagalan
+
+Lalu, hari pengumuman itu tiba.
+
+Saya membuka *website* pengumuman. Jantung saya berdebar kencang. Saya memasukkan nomor peserta saya, menekan 'Enter', dan menahan napas.
+
+Yang muncul adalah warna merah. Tulisan "Anda dinyatakan TIDAK LULUS..."
+
+Saya tidak lulus. Pilihan satu dan pilihan dua, keduanya menolak saya.
+
+Dunia saya seakan berhenti berputar. Perasaan pertama yang muncul bukanlah kesedihan, tapi **malu**. Saya merasa telah gagal total sebagai seorang anak. Saya telah mengecewakan orang-orang yang paling saya cintai; mereka yang telah memberikan segalanya untuk saya.
+
+Saya duduk terdiam untuk waktu yang lama. Hal tersulit bukanlah melihat layar merah itu, tapi memikirkan bagaimana cara mengabari orang tua saya. Saya tidak berani. Saya malu membayangkan nada kecewa dalam suara mereka.
+
+### Bagian 3: Titik Balik (Kekuatan dari "Cinta")
+
+Ketika saya akhirnya mengumpulkan keberanian untuk menelepon ke rumah, saya sudah bersiap untuk dimarahi, atau setidaknya, mendengar kekecewaan yang mendalam.
+
+Apa yang saya terima justru sebaliknya.
+
+Orang tua saya sangat suportif. Tentu, mereka kaget, tapi tidak ada amarah. Kalimat pertama yang mereka ucapkan adalah, "Tidak apa-apa. Ini bukan akhir." Mereka tidak melihat saya sebagai kegagalan. Mereka melihat saya sebagai anak mereka yang sedang "jatuh".
+
+Dukungan tanpa syarat itulah yang menjadi titik balik saya. Di situlah saya memutuskan untuk tidak "tetap di bawah".
+
+### Bagian 4: Maraton 6 Ujian
+
+Saya tidak membiarkan kesedihan berlarut-larut. Kegagalan UTBK adalah fakta, tapi itu bukan takdir.
+
+Orang tua saya mendorong saya untuk mencari jalan lain. Akhirnya, saya mendaftar dan mempersiapkan diri untuk **enam** ujian mandiri di berbagai kampus. Bulan berikutnya adalah maraton belajar yang sesungguhnya. Saya percaya Tuhan memberi saya jalan yang penuh tantangan ini karena saya bisa melewatinya. Saya kembali belajar dengan giat, kali ini didorong bukan oleh rasa takut gagal, tapi oleh keinginan untuk membuktikan bahwa dukungan orang tua saya tidak sia-sia.
+
+Satu per satu, pengumuman ujian mandiri mulai keluar.
+
+### Bagian 5: Resolusi dan Pelajaran
+
+Hasilnya: Saya lulus di **5 dari 6** kampus yang saya daftarkan.
+
+Dan ironisnya, salah satu kampus yang menerima saya melalui jalur mandiri adalah universitas yang sama yang menolak saya mentah-mentah di UTBK. Saya berhasil mendapatkannya kembali, bukan karena keberuntungan, tapi karena saya tidak menyerah untuk mencoba lagi.
+
+Pelajaran terbesar yang saya dapatkan adalah validasi mutlak dari kutipan itu.
+
+Gagal UTBK adalah momen 'jatuh' (falling down). Itu menyakitkan, memalukan, dan brutal. Tapi itu hanya sebuah peristiwa.
+
+Memutuskan untuk berhenti mencoba, menyalahkan takdir, dan menyerah pada rasa malu—itulah yang disebut 'tetap di bawah' (staying down). Dan saya memilih untuk tidak melakukannya.

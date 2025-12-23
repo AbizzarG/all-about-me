@@ -71,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -155,7 +184,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-2 My Opinions</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +222,33 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#landasan-epistemologis-mengapa-kita-tahu-korupsi-bisa-dihapus" id="toc-landasan-epistemologis-mengapa-kita-tahu-korupsi-bisa-dihapus" class="nav-link active" data-scroll-target="#landasan-epistemologis-mengapa-kita-tahu-korupsi-bisa-dihapus"><span class="header-section-number">9.1</span> Landasan Epistemologis: Mengapa Kita Tahu Korupsi Bisa Dihapus?</a></li>
+  <li><a href="#basis-data-biaya-kemanusiaan-dari-korupsi" id="toc-basis-data-biaya-kemanusiaan-dari-korupsi" class="nav-link" data-scroll-target="#basis-data-biaya-kemanusiaan-dari-korupsi"><span class="header-section-number">9.2</span> Basis Data: Biaya Kemanusiaan dari Korupsi</a>
+  <ul class="collapse">
+  <li><a href="#statistik-kerugian-global" id="toc-statistik-kerugian-global" class="nav-link" data-scroll-target="#statistik-kerugian-global"><span class="header-section-number">9.2.1</span> Statistik Kerugian Global</a></li>
+  <li><a href="#konsep-opportunity-cost-pembangunan" id="toc-konsep-opportunity-cost-pembangunan" class="nav-link" data-scroll-target="#konsep-opportunity-cost-pembangunan"><span class="header-section-number">9.2.2</span> Konsep “Opportunity Cost” Pembangunan</a></li>
+  </ul></li>
+  <li><a href="#kerangka-teoretis-principal-agent-problem" id="toc-kerangka-teoretis-principal-agent-problem" class="nav-link" data-scroll-target="#kerangka-teoretis-principal-agent-problem"><span class="header-section-number">9.3</span> Kerangka Teoretis: Principal-Agent Problem</a>
+  <ul class="collapse">
+  <li><a href="#definisi-masalah" id="toc-definisi-masalah" class="nav-link" data-scroll-target="#definisi-masalah"><span class="header-section-number">9.3.1</span> Definisi Masalah</a></li>
+  <li><a href="#solusi-ai-information-symmetry" id="toc-solusi-ai-information-symmetry" class="nav-link" data-scroll-target="#solusi-ai-information-symmetry"><span class="header-section-number">9.3.2</span> Solusi AI: Information Symmetry</a></li>
+  </ul></li>
+  <li><a href="#landasan-teknis-forensik-digital-algoritma" id="toc-landasan-teknis-forensik-digital-algoritma" class="nav-link" data-scroll-target="#landasan-teknis-forensik-digital-algoritma"><span class="header-section-number">9.4</span> Landasan Teknis: Forensik Digital &amp; Algoritma</a>
+  <ul class="collapse">
+  <li><a href="#hukum-benford-benfords-law" id="toc-hukum-benford-benfords-law" class="nav-link" data-scroll-target="#hukum-benford-benfords-law"><span class="header-section-number">9.4.1</span> Hukum Benford (<em>Benford’s Law</em>)</a></li>
+  <li><a href="#unsupervised-learning-isolation-forest" id="toc-unsupervised-learning-isolation-forest" class="nav-link" data-scroll-target="#unsupervised-learning-isolation-forest"><span class="header-section-number">9.4.2</span> Unsupervised Learning (Isolation Forest)</a></li>
+  <li><a href="#network-analysis-graph-theory" id="toc-network-analysis-graph-theory" class="nav-link" data-scroll-target="#network-analysis-graph-theory"><span class="header-section-number">9.4.3</span> Network Analysis (Graph Theory)</a></li>
+  </ul></li>
+  <li><a href="#studi-komparatif-preseden-global" id="toc-studi-komparatif-preseden-global" class="nav-link" data-scroll-target="#studi-komparatif-preseden-global"><span class="header-section-number">9.5</span> Studi Komparatif: Preseden Global</a></li>
+  <li><a href="#tantangan-epistemik-mitigasi" id="toc-tantangan-epistemik-mitigasi" class="nav-link" data-scroll-target="#tantangan-epistemik-mitigasi"><span class="header-section-number">9.6</span> Tantangan Epistemik &amp; Mitigasi</a></li>
+  <li><a href="#penutup-pengetahuan" id="toc-penutup-pengetahuan" class="nav-link" data-scroll-target="#penutup-pengetahuan"><span class="header-section-number">9.7</span> Penutup Pengetahuan</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -218,9 +272,103 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis <a href="Rekomendasi Presentasi Efektif(Contoh Makalah).pdf">makalah sebagai bahan utama</a> 2) lalu saya buat <a href="Contoh Transkrip Presentasi.pdf">transkrip ucapan lisan</a> 3) kemudian saya kembangkan <a href="Rekomendasi Presentasi (Contoh Slides).pdf">slide pendukung trnsskrip</a> 4) lalu saya memproduksivideo audio visual </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<section id="landasan-epistemologis-mengapa-kita-tahu-korupsi-bisa-dihapus" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="landasan-epistemologis-mengapa-kita-tahu-korupsi-bisa-dihapus"><span class="header-section-number">9.1</span> Landasan Epistemologis: Mengapa Kita Tahu Korupsi Bisa Dihapus?</h2>
+<p>Pengetahuan (<em>Knowledge</em>) dalam konteks Masterpiece ini bukan sekadar kumpulan informasi, melainkan pemahaman mendalam tentang <strong>anatomi korupsi</strong> dan <strong>mekanisme teknologi</strong> yang dapat membedahnya. Bagian ini menguraikan basis data, teori akademik, dan prinsip teknis yang mendasari konsep <em>GovGuard</em>.</p>
+<hr>
+</section>
+<section id="basis-data-biaya-kemanusiaan-dari-korupsi" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="basis-data-biaya-kemanusiaan-dari-korupsi"><span class="header-section-number">9.2</span> Basis Data: Biaya Kemanusiaan dari Korupsi</h2>
+<p>Berdasarkan referensi utama <em>Top 10 Global Challenges</em> dan laporan lembaga internasional, kita dapat memetakan skala kerusakan yang ditimbulkan oleh tata kelola yang buruk.</p>
+<section id="statistik-kerugian-global" class="level3" data-number="9.2.1">
+<h3 data-number="9.2.1" class="anchored" data-anchor-id="statistik-kerugian-global"><span class="header-section-number">9.2.1</span> Statistik Kerugian Global</h3>
+<ul>
+<li><strong>The <span class="math inline">\(1.26 Trillion Hole:** Data dari *World Economic Forum* dan PBB memperkirakan bahwa biaya korupsi, suap, pencurian, dan penggelapan pajak di negara berkembang mencapai **US\)</span> 1,26 triliun per tahun</strong>. Jumlah ini cukup untuk mengangkat 1,4 miliar orang keluar dari kemiskinan ekstrem dan membiayai layanan kesehatan dunia selama beberapa tahun.</li>
+<li><strong>Korelasi Kesejahteraan:</strong> <em>Transparency International</em> secara konsisten menunjukkan korelasi linear negatif antara Indeks Persepsi Korupsi (CPI) dan Indeks Pembangunan Manusia (HDI). Semakin tinggi korupsi, semakin rendah kualitas hidup, pendidikan, dan kesehatan warganya.</li>
+</ul>
+</section>
+<section id="konsep-opportunity-cost-pembangunan" class="level3" data-number="9.2.2">
+<h3 data-number="9.2.2" class="anchored" data-anchor-id="konsep-opportunity-cost-pembangunan"><span class="header-section-number">9.2.2</span> Konsep “Opportunity Cost” Pembangunan</h3>
+<p>Korupsi bukan hanya soal uang yang hilang, tapi soal apa yang <em>tidak terjadi</em> karena uang itu hilang (<em>Opportunity Cost</em>).</p>
+<ul>
+<li>Setiap <strong>Rp 1 Miliar</strong> yang dikorupsi dari proyek infrastruktur bukan hanya kerugian finansial, melainkan setara dengan hilangnya kesempatan bagi <strong>200 anak</strong> untuk mendapatkan beasiswa penuh, atau <strong>5 puskesmas</strong> yang gagal direnovasi. GovGuard didasarkan pada pengetahuan bahwa kita sedang menyelamatkan nyawa, bukan sekadar menyelamatkan angka.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="kerangka-teoretis-principal-agent-problem" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="kerangka-teoretis-principal-agent-problem"><span class="header-section-number">9.3</span> Kerangka Teoretis: Principal-Agent Problem</h2>
+<p>Mengapa pejabat korupsi? <em>GovGuard</em> tidak dibangun di atas asumsi moral, melainkan di atas teori ekonomi politik klasik: <strong>The Principal-Agent Problem</strong>.</p>
+<section id="definisi-masalah" class="level3" data-number="9.3.1">
+<h3 data-number="9.3.1" class="anchored" data-anchor-id="definisi-masalah"><span class="header-section-number">9.3.1</span> Definisi Masalah</h3>
+<p>Dalam pemerintahan demokratis:</p>
+<ul>
+<li><strong>Principal (Prinsipal):</strong> Rakyat (pemilik kedaulatan/uang).</li>
+<li><strong>Agent (Agen):</strong> Pejabat Pemerintah (yang diberi mandat mengelola uang).</li>
+</ul>
+<p>Masalah muncul karena adanya <strong>Asimetri Informasi</strong>. Agen (pejabat) memiliki informasi lebih banyak tentang detail proyek, harga pasar, dan kualitas vendor daripada Prinsipal (rakyat). Agen kemudian memanfaatkan ketidaktahuan Prinsipal ini untuk memperkaya diri sendiri (<em>rent-seeking behavior</em>).</p>
+</section>
+<section id="solusi-ai-information-symmetry" class="level3" data-number="9.3.2">
+<h3 data-number="9.3.2" class="anchored" data-anchor-id="solusi-ai-information-symmetry"><span class="header-section-number">9.3.2</span> Solusi AI: Information Symmetry</h3>
+<p>Penerapan AI dalam <em>GovGuard</em> secara teoretis berfungsi untuk <strong>meruntuhkan tembok asimetri informasi</strong> tersebut. Ketika data dibuka dan dianalisis oleh AI yang transparan, Prinsipal (rakyat) memiliki pengetahuan yang setara dengan Agen. Dalam teori permainan (<em>Game Theory</em>), ketika pengawasan menjadi sempurna, opsi rasional bagi Agen adalah bertindak jujur karena biaya kecurangan (risiko tertangkap) menjadi terlalu tinggi.</p>
+<hr>
+</section>
+</section>
+<section id="landasan-teknis-forensik-digital-algoritma" class="level2" data-number="9.4">
+<h2 data-number="9.4" class="anchored" data-anchor-id="landasan-teknis-forensik-digital-algoritma"><span class="header-section-number">9.4</span> Landasan Teknis: Forensik Digital &amp; Algoritma</h2>
+<p>Bagaimana cara mesin mengetahui ada korupsi tanpa “diajari” cara korupsi? Inilah inti pengetahuan teknis di balik <em>GovGuard</em>.</p>
+<section id="hukum-benford-benfords-law" class="level3" data-number="9.4.1">
+<h3 data-number="9.4.1" class="anchored" data-anchor-id="hukum-benford-benfords-law"><span class="header-section-number">9.4.1</span> Hukum Benford (<em>Benford’s Law</em>)</h3>
+<p>Ini adalah prinsip matematika forensik yang menyatakan bahwa dalam kumpulan data keuangan alami (yang jujur), digit pertama angka-angka tersebut mengikuti distribusi logaritmik tertentu. * Digit ‘1’ akan muncul sekitar <strong>30%</strong> dari waktu. * Digit ‘9’ hanya akan muncul kurang dari <strong>5%</strong> dari waktu. * <strong>Penerapan:</strong> Jika seorang pejabat memanalsukan laporan keuangan secara manual, mereka cenderung menyebarkan angka secara acak (uniform). Algoritma GovGuard mendeteksi pelanggaran kurva Benford ini sebagai indikasi awal manipulasi data (<em>red flag</em>).</p>
+</section>
+<section id="unsupervised-learning-isolation-forest" class="level3" data-number="9.4.2">
+<h3 data-number="9.4.2" class="anchored" data-anchor-id="unsupervised-learning-isolation-forest"><span class="header-section-number">9.4.2</span> Unsupervised Learning (Isolation Forest)</h3>
+<p>Korupsi sering kali merupakan kejadian langka (<em>outlier</em>). Metode <em>Supervised Learning</em> sulit digunakan karena kita kekurangan data label “transaksi korup”. Oleh karena itu, <em>GovGuard</em> menggunakan <strong>Unsupervised Learning</strong> dengan algoritma <em>Isolation Forest</em>. * <strong>Logika:</strong> Algoritma ini tidak mencari “korupsi”, ia memetakan “kenormalan”. Ia mempelajari pola 99% transaksi pengadaan yang wajar. * <strong>Deteksi:</strong> Segala sesuatu yang menyimpang jauh dari pola normal (misalnya: vendor baru berdiri 1 hari tapi menang tender Rp 50 Miliar) akan diisolasi sebagai anomali untuk diaudit.</p>
+</section>
+<section id="network-analysis-graph-theory" class="level3" data-number="9.4.3">
+<h3 data-number="9.4.3" class="anchored" data-anchor-id="network-analysis-graph-theory"><span class="header-section-number">9.4.3</span> Network Analysis (Graph Theory)</h3>
+<p>Untuk mendeteksi persekongkolan tender (<em>bid rigging</em>), kita menggunakan Teori Graf.</p>
+<ul>
+<li><strong>Nodes (Titik):</strong> Perusahaan, Direksi, Alamat IP, Rekening Bank.</li>
+<li><strong>Edges (Garis):</strong> Hubungan antar titik.</li>
+<li><strong>Deteksi:</strong> Jika AI melihat klaster tertutup di mana sekelompok perusahaan selalu mengikuti tender yang sama dan bergantian menang (pola arisan), sistem akan menandainya sebagai kartel, meskipun dokumen administrasinya tampak lengkap.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="studi-komparatif-preseden-global" class="level2" data-number="9.5">
+<h2 data-number="9.5" class="anchored" data-anchor-id="studi-komparatif-preseden-global"><span class="header-section-number">9.5</span> Studi Komparatif: Preseden Global</h2>
+<p>Ide ini bukan fiksi ilmiah. Beberapa negara telah menerapkan elemen-elemen parsial dari konsep ini, yang menjadi bukti kelayakan (<em>proof of concept</em>).</p>
+<ol type="1">
+<li><strong>Brasil (The Public Expenditure Observatory):</strong> Menggunakan <em>Data Mining</em> untuk mendeteksi penipuan dalam program kesejahteraan sosial dan pengadaan publik. Mereka berhasil menghemat ratusan juta dolar dengan menyilangkan data pajak dan kepemilikan perusahaan.</li>
+<li><strong>Ukraina (ProZorro):</strong> Sistem <em>e-procurement</em> yang lahir pasca-revolusi, mewajibkan semua tender pemerintah dilakukan secara digital dan datanya dapat diakses publik via API. Ini meningkatkan kompetisi dan menurunkan harga kontrak secara signifikan.</li>
+<li><strong>Estonia (X-Road):</strong> Tulang punggung digital yang memungkinkan transparansi data antar-lembaga pemerintah secara <em>real-time</em>, meminimalkan birokrasi dan celah suap.</li>
+</ol>
+<p><em>GovGuard</em> adalah sintesis dan evolusi dari sistem-sistem ini, ditambah dengan kapabilitas <em>Generative AI</em> untuk aksesibilitas publik.</p>
+<hr>
+</section>
+<section id="tantangan-epistemik-mitigasi" class="level2" data-number="9.6">
+<h2 data-number="9.6" class="anchored" data-anchor-id="tantangan-epistemik-mitigasi"><span class="header-section-number">9.6</span> Tantangan Epistemik &amp; Mitigasi</h2>
+<p>Pengetahuan yang jujur juga harus mengakui batasannya.</p>
+<ul>
+<li><strong>Masalah “Garbage In, Garbage Out”:</strong> AI hanya sebaik data yang dimasukkan. Jika data input dimanipulasi di sumber fisik (misal: barang fiktif yang dicatat ada), AI bisa tertipu.
+<ul>
+<li><em>Mitigasi:</em> Integrasi dengan <em>Internet of Things</em> (IoT) dan verifikasi fisik acak berbasis laporan warga (<em>Citizen Lens</em>).</li>
+</ul></li>
+<li><strong>Bias Algoritma:</strong> Risiko bahwa AI mungkin menandai vendor kecil sebagai “berisiko” hanya karena pola keuangannya belum stabil.
+<ul>
+<li><em>Mitigasi:</em> Prinsip <em>Human-in-the-loop</em>. AI tidak menjatuhkan vonis hukum, ia hanya memberikan rekomendasi audit kepada inspektorat manusia.</li>
+</ul></li>
+</ul>
+<hr>
+</section>
+<section id="penutup-pengetahuan" class="level2" data-number="9.7">
+<h2 data-number="9.7" class="anchored" data-anchor-id="penutup-pengetahuan"><span class="header-section-number">9.7</span> Penutup Pengetahuan</h2>
+<p>Masterpiece ini berdiri di atas keyakinan bahwa <strong>korupsi adalah masalah informasi</strong>. Korupsi tumbuh subur dalam kegelapan ketidaktahuan. Dengan memadukan teori ekonomi (insentif), matematika forensik (Hukum Benford), dan teknologi komputasi (Machine Learning), kita mengubah cahaya transparansi menjadi senjata presisi.</p>
+<p>Kita tahu cara kerjanya, kita punya datanya, dan kita memiliki teknologinya. Yang tersisa hanyalah kemauan untuk menekan tombol “Jalankan”.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

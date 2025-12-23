@@ -1,2 +1,39 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# UAS-5 My Professional Reviews
+
+Bagian ini merupakan penutup dari rangkaian Masterpiece UAS, berisi evaluasi profesional terhadap karya saya sendiri (*Self-Assessment*) dan karya rekan sejawat (*Peer-Assessment*). Penilaian dilakukan berdasarkan rubrik standar: Kurasi, Kejelasan, Akurasi, dan Daya Guna.
+
+## Unduh Lembar Skor
+
+Rekapitulasi skor lengkap (Self + Peer) dapat diunduh melalui tautan berikut untuk keperluan verifikasi:
+
+* **[Unduh Lembar Skor Lengkap (XLSX/CSV)](./UAS-5_Skor.xlsx)**
+
+---
+
+## 1. Self-Assessment (M. Abizzar Gamadrian - 13523155)
+
+**Topik Masterpiece:** *GovGuard: Akuntabilitas Algoritmik untuk Memberantas Korupsi*
+
+Berikut adalah hasil evaluasi mandiri terhadap portofolio UAS 1-4 yang telah saya susun:
+
+| Komponen UAS | Skor Rata-rata | Keterangan Singkat |
+| :--- | :---: | :--- |
+| **UAS-1: My Concepts** | **5.0** | Konsep "Akuntabilitas Algoritmik" didefinisikan dengan tajam, logis, dan menjawab akar masalah diskresi manusia dalam korupsi. |
+| **UAS-2: My Opinions** | **5.0** | Opini dibangun dengan retorika yang kuat (*Logos, Ethos, Pathos*), menyajikan data perbandingan audit manusia vs AI yang informatif. |
+| **UAS-3: My Innovations** | **5.0** | Solusi produk (*GovGuard, Citizen Lens, The Vault*) sangat konkret, teknis, dan disertai peta jalan implementasi yang layak. |
+| **UAS-4: My Knowledge** | **5.0** | Landasan pengetahuan sangat kuratif, memadukan teori ekonomi (*Principal-Agent*) dan matematika forensik (*Benford's Law*) dengan akurat. |
+
+**Kesimpulan:**
+Secara keseluruhan, portofolio ini telah memenuhi kriteria "Masterpiece" dengan menyajikan solusi sistemik yang orisinal, didukung data valid, dan memiliki potensi daya guna tinggi untuk reformasi birokrasi.
+
+---
+
+## 2. Peer-Assessment
+
+Berikut adalah penilaian terhadap karya rekan sejawat yang telah ditugaskan:
+
+1.  **Tyara Penelope Lumban Gaol (18224122)**
+2.  **Rian Albar Insani (11422020)**
+3.  **Firanti Naulia Fasya (18224119)**
+
+> **Status:** *Coming soon*, peer (Tyara, Rian, dan Firanti) belum menyelesaikan/mempublikasikan UASnya sepenuhnya untuk dinilai. Penilaian akan segera diperbarui setelah submisi mereka tersedia.

@@ -1,6 +1,6 @@
 # UAS-5 My Professional Reviews
 
-Bagian ini merupakan penutup dari rangkaian Masterpiece UAS, berisi evaluasi profesional terhadap karya saya sendiri (*Self-Assessment*) dan karya rekan sejawat (*Peer-Assessment*). Penilaian dilakukan berdasarkan rubrik standar: Kurasi, Kejelasan, Akurasi, dan Daya Guna.
+Bagian ini merupakan penutup dari rangkaian Masterpiece UAS, berisi evaluasi profesional terhadap karya saya sendiri (*Self-Assessment*) dan karya rekan sejawat (*Peer-Assessment*). Penilaian dilakukan berdasarkan rubrik yang sudah diberikan.
 
 ## Unduh Lembar Skor
 
@@ -10,7 +10,7 @@ Rekapitulasi skor lengkap (Self + Peer) dapat diunduh melalui tautan berikut unt
 
 ---
 
-## 1. Self-Assessment (M. Abizzar Gamadrian - 13523155)
+## Self-Assessment (M. Abizzar Gamadrian - 13523155)
 
 **Topik Masterpiece:** *GovGuard: Akuntabilitas Algoritmik untuk Memberantas Korupsi*
 
@@ -28,7 +28,7 @@ Secara keseluruhan, portofolio ini telah memenuhi kriteria "Masterpiece" dengan 
 
 ---
 
-## 2. Peer-Assessment
+## Peer-Assessment
 
 Berikut adalah penilaian terhadap karya rekan sejawat yang telah ditugaskan:
 

@@ -71,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -283,7 +254,7 @@ window.Quarto = {
 <section id="statistik-kerugian-global" class="level3" data-number="9.2.1">
 <h3 data-number="9.2.1" class="anchored" data-anchor-id="statistik-kerugian-global"><span class="header-section-number">9.2.1</span> Statistik Kerugian Global</h3>
 <ul>
-<li><strong>The <span class="math inline">\(1.26 Trillion Hole:** Data dari *World Economic Forum* dan PBB memperkirakan bahwa biaya korupsi, suap, pencurian, dan penggelapan pajak di negara berkembang mencapai **US\)</span> 1,26 triliun per tahun</strong>. Jumlah ini cukup untuk mengangkat 1,4 miliar orang keluar dari kemiskinan ekstrem dan membiayai layanan kesehatan dunia selama beberapa tahun.</li>
+<li><strong>The 1.26 Trillion Dollar Hole:</strong> Data dari <em>World Economic Forum</em> dan PBB memperkirakan bahwa biaya korupsi, suap, pencurian, dan penggelapan pajak di negara berkembang mencapai <strong>USD 1,26 triliun per tahun</strong>. Jumlah ini cukup untuk mengangkat 1,4 miliar orang keluar dari kemiskinan ekstrem dan membiayai layanan kesehatan dunia selama beberapa tahun.</li>
 <li><strong>Korelasi Kesejahteraan:</strong> <em>Transparency International</em> secara konsisten menunjukkan korelasi linear negatif antara Indeks Persepsi Korupsi (CPI) dan Indeks Pembangunan Manusia (HDI). Semakin tinggi korupsi, semakin rendah kualitas hidup, pendidikan, dan kesehatan warganya.</li>
 </ul>
 </section>
@@ -319,11 +290,20 @@ window.Quarto = {
 <p>Bagaimana cara mesin mengetahui ada korupsi tanpa “diajari” cara korupsi? Inilah inti pengetahuan teknis di balik <em>GovGuard</em>.</p>
 <section id="hukum-benford-benfords-law" class="level3" data-number="9.4.1">
 <h3 data-number="9.4.1" class="anchored" data-anchor-id="hukum-benford-benfords-law"><span class="header-section-number">9.4.1</span> Hukum Benford (<em>Benford’s Law</em>)</h3>
-<p>Ini adalah prinsip matematika forensik yang menyatakan bahwa dalam kumpulan data keuangan alami (yang jujur), digit pertama angka-angka tersebut mengikuti distribusi logaritmik tertentu. * Digit ‘1’ akan muncul sekitar <strong>30%</strong> dari waktu. * Digit ‘9’ hanya akan muncul kurang dari <strong>5%</strong> dari waktu. * <strong>Penerapan:</strong> Jika seorang pejabat memanalsukan laporan keuangan secara manual, mereka cenderung menyebarkan angka secara acak (uniform). Algoritma GovGuard mendeteksi pelanggaran kurva Benford ini sebagai indikasi awal manipulasi data (<em>red flag</em>).</p>
+<p>Ini adalah prinsip matematika forensik yang menyatakan bahwa dalam kumpulan data keuangan alami (yang jujur), digit pertama angka-angka tersebut mengikuti distribusi logaritmik tertentu.</p>
+<ul>
+<li>Digit ‘1’ akan muncul sekitar <strong>30%</strong> dari waktu.</li>
+<li>Digit ‘9’ hanya akan muncul kurang dari <strong>5%</strong> dari waktu.</li>
+<li><strong>Penerapan:</strong> Jika seorang pejabat memanalsukan laporan keuangan secara manual, mereka cenderung menyebarkan angka secara acak (uniform). Algoritma GovGuard mendeteksi pelanggaran kurva Benford ini sebagai indikasi awal manipulasi data (<em>red flag</em>).</li>
+</ul>
 </section>
 <section id="unsupervised-learning-isolation-forest" class="level3" data-number="9.4.2">
 <h3 data-number="9.4.2" class="anchored" data-anchor-id="unsupervised-learning-isolation-forest"><span class="header-section-number">9.4.2</span> Unsupervised Learning (Isolation Forest)</h3>
-<p>Korupsi sering kali merupakan kejadian langka (<em>outlier</em>). Metode <em>Supervised Learning</em> sulit digunakan karena kita kekurangan data label “transaksi korup”. Oleh karena itu, <em>GovGuard</em> menggunakan <strong>Unsupervised Learning</strong> dengan algoritma <em>Isolation Forest</em>. * <strong>Logika:</strong> Algoritma ini tidak mencari “korupsi”, ia memetakan “kenormalan”. Ia mempelajari pola 99% transaksi pengadaan yang wajar. * <strong>Deteksi:</strong> Segala sesuatu yang menyimpang jauh dari pola normal (misalnya: vendor baru berdiri 1 hari tapi menang tender Rp 50 Miliar) akan diisolasi sebagai anomali untuk diaudit.</p>
+<p>Korupsi sering kali merupakan kejadian langka (<em>outlier</em>). Metode <em>Supervised Learning</em> sulit digunakan karena kita kekurangan data label “transaksi korup”. Oleh karena itu, <em>GovGuard</em> menggunakan <strong>Unsupervised Learning</strong> dengan algoritma <em>Isolation Forest</em>.</p>
+<ul>
+<li><strong>Logika:</strong> Algoritma ini tidak mencari “korupsi”, ia memetakan “kenormalan”. Ia mempelajari pola 99% transaksi pengadaan yang wajar.</li>
+<li><strong>Deteksi:</strong> Segala sesuatu yang menyimpang jauh dari pola normal (misalnya: vendor baru berdiri 1 hari tapi menang tender Rp 50 Miliar) akan diisolasi sebagai anomali untuk diaudit.</li>
+</ul>
 </section>
 <section id="network-analysis-graph-theory" class="level3" data-number="9.4.3">
 <h3 data-number="9.4.3" class="anchored" data-anchor-id="network-analysis-graph-theory"><span class="header-section-number">9.4.3</span> Network Analysis (Graph Theory)</h3>

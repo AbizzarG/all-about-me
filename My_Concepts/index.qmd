@@ -13,7 +13,7 @@ Masalah utamanya bukan sekadar moralitas individu pejabat, melainkan kelemahan d
 **Akuntabilitas Algoritmik (Konsep)** dapat didefinisikan sebagai:
 
 > **Logika mesin abstrak** yang berusaha menanamkan dan mengelola **integritas sistemik** [K]
-> — melalui otomatisasi pengawasan, transparansi data radikal, dan deteksi pola anomali —
+> melalui otomatisasi pengawasan, transparansi data radikal, dan deteksi pola anomali
 > untuk **menghapus celah diskresi dan manipulasi** [B]
 > yang selama ini menyandera hak publik atas tata kelola pemerintahan yang bersih, efisien, dan adil.
 
@@ -26,7 +26,7 @@ Esensi dari konsep Akuntabilitas Algoritmik terletak pada tiga gagasan utama:
     Kita sering melihat korupsi hanya sebagai kegagalan moral perorangan. Namun, konsep ini memandang korupsi sebagai "bug" atau cacat dalam desain sistem birokrasi yang membiarkan pintu belakang terbuka. AI berfungsi sebagai *patch* (perbaikan) sistemik untuk menutup celah tersebut secara permanen.
 
 2.  **Netralitas Kode di Atas Kepentingan Agen**
-    Manusia memiliki kepentingan pribadi, ketakutan, dan keserakahan. Algoritma—jika didesain dengan benar—tidak memiliki motif ekonomi, tidak berafiliasi politik, dan tidak bisa disogok. Esensinya adalah memindahkan beban berat pengawasan dari pundak manusia yang rapuh ke pundak sistem komputasi yang kokoh dan objektif.
+    Manusia memiliki kepentingan pribadi, ketakutan, dan keserakahan. Algoritma (jika didesain dengan benar) tidak memiliki motif ekonomi, tidak berafiliasi politik, dan tidak bisa disogok. Esensinya adalah memindahkan beban berat pengawasan dari pundak manusia yang rapuh ke pundak sistem komputasi yang kokoh dan objektif.
 
 3.  **Transparansi Aktif (Active Visibility)**
     Sekadar mempublikasikan data anggaran di website (transparansi pasif) tidaklah cukup jika datanya terlalu rumit untuk dipahami rakyat. Esensi konsep ini adalah transparansi aktif, di mana sistem secara cerdas "berteriak" (memberikan peringatan dini) ketika mendeteksi ketidakwajaran, tanpa perlu menunggu auditor menemukannya.
@@ -61,6 +61,6 @@ maka **konsep Akuntabilitas Algoritmik** adalah **sistem kekebalan tubuh (imun)*
 Tanpa membangun konsep sistem imun yang kuat, negara hanya akan terus-menerus "minum obat" tanpa pernah benar-benar sehat dari penyakit korupsi.
 
 ###  Penutup
-Dalam era *Artificial Intelligence*, membiarkan korupsi merajalela dengan alasan "kurang tenaga pengawas" adalah sebuah kegagalan imajinasi dan kemauan politik. Dengan membangun konsep Akuntabilitas Algoritmik, kita sedang menciptakan fondasi bagi "Pikiran Birokrasi Baru"—sebuah birokrasi yang melayani bukan karena takut pada hukuman, tetapi karena sistemnya memang dirancang untuk tidak memungkinkan adanya kecurangan.
+Dalam era *Artificial Intelligence*, membiarkan korupsi merajalela dengan alasan "kurang tenaga pengawas" adalah sebuah kegagalan imajinasi dan kemauan politik. Dengan membangun konsep Akuntabilitas Algoritmik, kita sedang menciptakan fondasi bagi "Pikiran Birokrasi Baru" sebuah birokrasi yang melayani bukan karena takut pada hukuman, tetapi karena sistemnya memang dirancang untuk tidak memungkinkan adanya kecurangan.
 
 Konsep ini menjadi langkah awal mengubah paradigma dari *"Trust me"* (percaya pada pejabat) menjadi *"Trust the Code"* (percaya pada sistem yang transparan, terverifikasi, dan adil).

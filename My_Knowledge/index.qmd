@@ -12,7 +12,7 @@ Berdasarkan referensi utama *Top 10 Global Challenges* dan laporan lembaga inter
 
 ### Statistik Kerugian Global
 
-* **The $1.26 Trillion Hole:** Data dari *World Economic Forum* dan PBB memperkirakan bahwa biaya korupsi, suap, pencurian, dan penggelapan pajak di negara berkembang mencapai **US$ 1,26 triliun per tahun**. Jumlah ini cukup untuk mengangkat 1,4 miliar orang keluar dari kemiskinan ekstrem dan membiayai layanan kesehatan dunia selama beberapa tahun.
+* **The 1.26 Trillion Dollar Hole:** Data dari *World Economic Forum* dan PBB memperkirakan bahwa biaya korupsi, suap, pencurian, dan penggelapan pajak di negara berkembang mencapai **USD 1,26 triliun per tahun**. Jumlah ini cukup untuk mengangkat 1,4 miliar orang keluar dari kemiskinan ekstrem dan membiayai layanan kesehatan dunia selama beberapa tahun.
 * **Korelasi Kesejahteraan:** *Transparency International* secara konsisten menunjukkan korelasi linear negatif antara Indeks Persepsi Korupsi (CPI) dan Indeks Pembangunan Manusia (HDI). Semakin tinggi korupsi, semakin rendah kualitas hidup, pendidikan, dan kesehatan warganya.
 
 ### Konsep "Opportunity Cost" Pembangunan
@@ -46,6 +46,7 @@ Bagaimana cara mesin mengetahui ada korupsi tanpa "diajari" cara korupsi? Inilah
 ### Hukum Benford (*Benford's Law*)
 
 Ini adalah prinsip matematika forensik yang menyatakan bahwa dalam kumpulan data keuangan alami (yang jujur), digit pertama angka-angka tersebut mengikuti distribusi logaritmik tertentu.
+
 * Digit '1' akan muncul sekitar **30%** dari waktu.
 * Digit '9' hanya akan muncul kurang dari **5%** dari waktu.
 * **Penerapan:** Jika seorang pejabat memanalsukan laporan keuangan secara manual, mereka cenderung menyebarkan angka secara acak (uniform). Algoritma GovGuard mendeteksi pelanggaran kurva Benford ini sebagai indikasi awal manipulasi data (*red flag*).
@@ -53,6 +54,7 @@ Ini adalah prinsip matematika forensik yang menyatakan bahwa dalam kumpulan data
 ###  Unsupervised Learning (Isolation Forest)
 
 Korupsi sering kali merupakan kejadian langka (*outlier*). Metode *Supervised Learning* sulit digunakan karena kita kekurangan data label "transaksi korup". Oleh karena itu, *GovGuard* menggunakan **Unsupervised Learning** dengan algoritma *Isolation Forest*.
+
 * **Logika:** Algoritma ini tidak mencari "korupsi", ia memetakan "kenormalan". Ia mempelajari pola 99% transaksi pengadaan yang wajar.
 * **Deteksi:** Segala sesuatu yang menyimpang jauh dari pola normal (misalnya: vendor baru berdiri 1 hari tapi menang tender Rp 50 Miliar) akan diisolasi sebagai anomali untuk diaudit.
 

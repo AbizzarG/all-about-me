@@ -28,12 +28,30 @@ Secara keseluruhan, portofolio ini telah memenuhi kriteria "Masterpiece" dengan 
 
 ---
 
-## Peer-Assessment
+## 2. Peer-Assessment
 
 Berikut adalah penilaian terhadap karya rekan sejawat yang telah ditugaskan:
 
-1.  **Tyara Penelope Lumban Gaol (18224122)**
-2.  **Rian Albar Insani (11422020)**
-3.  **Firanti Naulia Fasya (18224119)**
+### 2.1 Tyara Penelope Lumban Gaol (18224122)
 
-> **Status:** *Coming soon*, peer (Tyara, Rian, dan Firanti) belum menyelesaikan/mempublikasikan UASnya sepenuhnya untuk dinilai. Penilaian akan segera diperbarui setelah submisi mereka tersedia.
+> **Status:** *Coming soon*. Rekan Tyara belum menyelesaikan publikasi UAS-nya pada saat penilaian ini dilakukan. Skor sementara diberikan 0 sesuai instruksi dan akan diperbarui setelah submisi tersedia.
+
+### 2.2 Mahesa Fadhillah Andre (13523140)
+
+* **Topik:** Kemiskinan Global - *Ekosistem Pemberdayaan Terpadu (EPT)*
+* **Tinjauan Umum:** Karya Mahesa sangat impresif karena berhasil memanusiakan teknologi. Konsep EPT tidak hanya bicara soal efisiensi, tapi soal "nurani" dan "martabat". Ini adalah pendekatan yang sangat segar dan dibutuhkan.
+* **Kekuatan Utama:**
+    * **Konsep (UAS-1):** Penggunaan istilah "Pusat Nurani" sangat kuat secara filosofis.
+    * **Opini (UAS-2):** Argumennya sangat tajam dalam mengkritik model bantuan sosial lama.
+    * **Pengetahuan (UAS-4):** Integrasi data satelit (intensitas cahaya) menunjukkan kedalaman riset teknis.
+* **Skor Rata-rata:** **4.98 / 5.0**
+
+### 2.3 Muhammad Raihaan Perdana (13523124)
+
+* **Topik:** Kelaparan & Pangan - *MakanBergiziGabocor*
+* **Tinjauan Umum:** Masterpiece Raihaan adalah contoh sempurna dari rekayasa sistem sosio-teknis. Ia tidak terjebak pada solusi teknis semata, tetapi memahami konteks sosial dan politik dari masalah kelaparan. Adanya artefak nyata (aplikasi web) menjadi nilai tambah yang luar biasa.
+* **Kekuatan Utama:**
+    * **Konsep (UAS-1):** Definisi masalah sebagai "krisis koordinasi" sangat tepat sasaran.
+    * **Inovasi (UAS-3):** Aplikasi nyata dengan integrasi Blockchain dan AI adalah bukti kelayakan (*feasibility*) yang tinggi.
+    * **Kejelasan:** Penjelasan sangat terstruktur dan mudah dipahami meski membahas hal kompleks.
+* **Skor Rata-rata:** **4.98 / 5.0**
